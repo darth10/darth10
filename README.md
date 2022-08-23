@@ -2,7 +2,7 @@ Hey there! :wave:
 
 <div>
 <a href="https://github.com/darth10">
-  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=darth10&show_icons=true&theme=dark&count_private=true" />
+  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=darth10&show_icons=true&theme=dark&count_private=true&&hide=contribs" />
 </a>
 
 <a href="https://github.com/darth10">
