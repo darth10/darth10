@@ -1,4 +1,4 @@
-Tēnā koe! :wave:
+Tēnā koutou! :wave:
 
 <div>
 <a href="https://github.com/darth10">
