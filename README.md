@@ -2,7 +2,6 @@
 
 I like programming in Clojure, Haskell, Python, C#, and C. I find programming in any Lisp dialect liberating, whether it's Racket, Clojure, SBCL, or even Emacs Lisp. I'm _obsessed_ with using GNU/Linux and Emacs for everything. I'm _always_ exploring mathematics, open source software, and distributed systems.
 
-
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
